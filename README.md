@@ -1,2 +1,0 @@
-# dawdler
-The Dawdler
